@@ -1,0 +1,8 @@
+path: ./dataset_fruits/
+train: train/images
+val: test/images
+# Class names
+names:
+  0: apple
+  1: banana
+  2: orange
